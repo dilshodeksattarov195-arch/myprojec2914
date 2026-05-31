@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerserify",
+        "uuid": 9610372,
+        "checksum": "e7wnmi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
